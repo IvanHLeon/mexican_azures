@@ -1,2 +1,2 @@
-# mexican_azures
-Primer reto de innovaccion que ayudará a recordar y reforzar conocimientos previamente vistos e incluso nuevos aprendizajes para interesados en los temas. 
+# Azure para todos
+A continuación podremos apreciar el uso de las diferentes herramientas de Azure dentro del área web así como las diferentes aplicaciones que se le puede dar a cada una 
